@@ -1,0 +1,10 @@
+int x=5;
+float y=5.5;
+float z=x+y;
+for(int i=5;i<=10;i=i+1){z=z+x;}
+while(z>5){
+if(z>7){
+z=z-2;
+}
+do {z=z+3;} while(x>5)
+}
